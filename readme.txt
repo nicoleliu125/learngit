@@ -13,3 +13,5 @@ git tracks change1
 git tracks change2
 
 git test original branch
+
+Creating a new dev-branch is quick.
