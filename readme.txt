@@ -14,4 +14,4 @@ git tracks change2
 
 git test original branch
 
-Creating a new撒可富大立科技萨芬大立科技爱上
+Creating a new branch is quick AND simple.
