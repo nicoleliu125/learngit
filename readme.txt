@@ -15,3 +15,5 @@ git tracks change2
 git test original branch
 
 Creating a new branch is quick AND simple。-dev branch edit
+
+--branch  issue2 has been fixed one bug to commit.
